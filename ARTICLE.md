@@ -18,8 +18,6 @@ It was built using Express, a Node.js framework. It is open-source and provides 
 
 Medusa is fully customizable and extensible. You can build webshops, subscription services, digital products stores, ticketing systems, and any other ecommerce solutions.
 
-Check out Medusa's features here.
-
 ## What is GitHub Codespace
 
 [GitHub Codespace](https://docs.github.com/en/codespaces/overview) is a cloud-hosted development environment you can access online from your web browser.
@@ -27,8 +25,6 @@ Check out Medusa's features here.
 ![GitHub Codespace Intro](https://res.cloudinary.com/craigsims808/image/upload/v1683312815/articles/green-elk/codespace-intro_cqoib9.png)
 
 GitHub uses a Docker container running on a Virtual Machine to host your development environment aka codespace. The codespace comes with common languages, tools, and utilities for most development use cases and runs in a Linux environment.
-
-Check out GitHub Codespace's features here.
 
 Use of GitHub Codespaces is not entirely free, as free usage is only limited to the first 60 hours of the month. If you want more you can check the pricing page for more info.
 
